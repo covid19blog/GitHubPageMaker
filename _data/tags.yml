@@ -1,0 +1,16 @@
+Confirmed :
+  name: Confirmed
+  description: False
+  cover: assets/built/images/tag-cover.jpg
+Policy :
+  name: Policy
+  description: False
+  cover: assets/built/images/tag-cover.jpg
+Quarantine :
+  name: Quarantine
+  description: False
+  cover: assets/built/images/tag-cover.jpg
+Screen :
+  name: Screen
+  description: False
+  cover: assets/built/images/tag-cover.jpg
